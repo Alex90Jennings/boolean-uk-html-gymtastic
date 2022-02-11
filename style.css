@@ -1,0 +1,163 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+  .Logo {
+    background-color: #077caa;
+    padding: 30px;
+  }
+  h1 {
+    color: white;
+    font-size: 40px;
+    display: inline;
+    margin: 10px;
+  }
+  .Logo ul {
+    list-style: none;
+    display: inline;
+  }
+  h2 {
+    font-size: 40px;
+    color: #077caa;
+    padding: 20px;
+    padding-left: 0;
+    font-weight: 780;
+    margin: 0;
+    margin-bottom: 20px;
+  }
+  h3 {
+    padding: 20px;
+    font-weight: normal;
+    margin: 0;
+  }
+  h4 {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 25px;
+    text-align: center;
+    margin: 0;
+  }
+  h5 {
+      color: #1877f2;
+      font-size: large;
+      padding: 10px 0;
+      margin: 0;
+  }
+  .Logo ul a {
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    margin: 20px;
+  }
+  .Main,
+  .main-about-us,
+  .main-contact-us {
+    padding: 30px;
+  }
+  .Main p {
+    margin-bottom: 10px;
+    font-size: 22px;
+  }
+  .Main a {
+    margin: 20px 20px 20px 0;
+  }
+  .Main a .social {
+      width: 200px;
+  }
+  .discount {
+    display: inline;
+    color: #077caa;
+  }
+  .Get-Membership {
+    color: #f77b08;
+    border: solid 2.5px #f77b08;
+    margin-top: 5px;
+    padding: 10px 25px;
+    display: inline-block;
+    border-radius: 10px;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+    width: 250px;
+  }
+  .social {
+    border: solid 1px black;
+    padding: 20px 65px;
+    border-radius: 10px;
+    box-shadow: grey 3px 3px 7px;
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  .instagram {
+    background-color: #4c3edc;
+  }
+  .facebook {
+    background-color: #1877f2;
+  }
+  .youtube {
+    background-color: red;
+  }
+  .Testimonials {
+    padding: 30px;
+    margin-bottom: 10px;
+  }
+  .Testimonials p {
+      padding: 20px 10px;
+  }
+  .Testimonials img {
+      padding: 10px;
+      padding-left: 35px;
+      width: 250px;
+      height: 122px;
+      ;
+  }
+  .main-gyms {
+      display: flex;
+      justify-content: space-around;
+  }
+  .Testimonial-box {
+      width: 300px;
+      height: 350px;
+      border: 3px lightgray solid;
+      border-radius: 10px;
+      display: inline-block;
+  }
+  .gym-location img {
+      width: 350px;
+      display: inline-block;
+  }
+  .gym-location p {
+      margin-bottom: 10px;
+  }
+  .contact-info {
+      padding: 10px 0;
+  }
+  .contact-info a {
+    text-decoration: none;
+    color: #1877f2;
+    font-weight: bold;
+}
+.live-chat {
+    margin-bottom: 700px;
+    margin-top: 10px;
+}
+  .Footer {
+    background-color: #077caa;
+    color: white;
+    text-decoration: none;
+    padding-bottom: 20px;
+  }
+  .Footer ul {
+    font-weight: 600;
+    margin-left: 20px;
+    list-style: none;
+  }
+  .Footer ul a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-weight: normal;
+  }
